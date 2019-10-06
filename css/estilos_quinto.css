@@ -1,0 +1,67 @@
+
+.quinto{
+    width: 100%;
+    height: 1000px;
+    background-color: white;
+}
+
+.quinto_superior .izq{
+    width: 50%;
+    height: 450px;
+    float: left;
+}
+
+.quinto_superior img{
+    width: 100%;
+    height: 450px;
+}
+
+.quinto_superior .der{
+    width: 50%;
+    height: 450px;
+    float: left;
+    background-color: rgb(44, 44, 53);
+    color: white;
+}
+
+.parrafo_quinto_superior{
+    font-family: monospace;
+    font-size: 16px;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+.parrafo_quinto_superior h3{
+    font-size: 25px;
+}
+
+.quinto_inferior .izq{
+    width: 50%;
+    height: 450px;
+    float: left;
+}
+
+.parrafo_quinto_inferior{
+    font-family: monospace;
+    font-size: 16px;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+.parrafo_quinto_inferior h3{
+    font-size: 25px;
+}
+
+.quinto_inferior img{
+    width: 100%;
+    height: 450px;
+}
+
+.quinto_inferior .der{
+    width: 50%;
+    height: 450px;
+    float: left;
+    background-color: rgb(38, 38, 44);
+}
