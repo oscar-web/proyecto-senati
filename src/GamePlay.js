@@ -267,7 +267,7 @@ GamePlayManager = {
     }
 }
 
-var game = new Phaser.Game(1136, 640, Phaser.CANVAS);
+var game = new Phaser.Game(1136, 640, Phaser.AUTO);
     
 game.state.add("gameplay", GamePlayManager);
 game.state.start("gameplay");
